@@ -110,6 +110,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+![alt text](image.png)
 
 
 
